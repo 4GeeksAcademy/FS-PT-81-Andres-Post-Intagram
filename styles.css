@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+    margin: 0%;
+}
+div.post{
+    background-color: white;
+}
+p {
+    margin: 0;
+}
+div.container {
+    width: 450px;
+    margin: auto;
+}
+.img {
+    object-fit: contain;
+    width: 100%;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+}
+.user-info {
+    display: flex;
+    align-items: center;
+}
+.p-1 {
+    padding: 0 0.5rem;
+}
+.footer {
+    height: 200px;
+    background-color: white;
+}
+.quote {
+    padding: 0 1rem;
+    margin-bottom: 0.5rem;
+}
+.description {
+    margin-left: 3%;
+    transform: translateY(10px);
+}
+.iconos {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    align-items: center;
+}
